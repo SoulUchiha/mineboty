@@ -1,12 +1,12 @@
 {
-    "ip": "",
-    "port": "",
-    "name": "katy",
-    "auto-night-skip": "false",
-    "prefix": "",
-    "login-enabled": "true",
+    "ip": "ItzourDuoSurvival22.aternos.me",
+    "port": "21262",
+    "name": "idk_wat_to_say_blaut_iat",
+    "auto-night-skip": "true",
+    "prefix": "!",
+    "login-enabled": "false",
     "register-cmd": "/login kartikopp kartikopp",
     "login-cmd": "/login kartikopp",
-    "loginmsg": "",
+    "loginmsg": "hi kekw",
     "auto-reconnect": "true"
 }
